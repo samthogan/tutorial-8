@@ -1,3 +1,3 @@
-cube <- function(x){             
+cube <- function(x) {             
   x^3
 }
