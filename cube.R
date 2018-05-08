@@ -6,3 +6,6 @@ square <- function(x){
   x^2
 }
 
+difference <- function(x,y){
+  (x-y)
+}
